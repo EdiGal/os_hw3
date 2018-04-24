@@ -17,4 +17,10 @@ fstream
 -
 vector
 -
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
 
